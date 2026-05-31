@@ -2,7 +2,7 @@
 
 An interactive Machine Learning web application built with **Streamlit** and **Scikit-Learn** that predicts whether an employee's salary exceeds $100,000 annually based on their company, job role, and highest academic degree.
 
-Live App Link: *[Paste your Streamlit Cloud URL here once it is deployed!]*
+Live App Link: [Click here to try the live app!]https://salaries-prediction-cs8uohstwmtfxmws9a9hse.streamlit.app/
 
 ---
 
